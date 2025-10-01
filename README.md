@@ -1,5 +1,4 @@
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6c280d83-a74c-43b8-a22c-e37f033f845c" />
-
+https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMjBtMXlyYXcwcGtwMHluZHY1OWQxYjNvYjdvNXVsd2FjdXg2aHVyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/source.gif
 <h1 align="center">Hello there, I'm Dimitri</h1>
 <div style="text-align: left; margin-left: 35%;">
 
