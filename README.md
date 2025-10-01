@@ -1,5 +1,5 @@
 <p align="center">
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJxdjVmMGc3NmNvbHg5dzBsc3lrMmtmam8ydGhidGptOGRyNGNlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif
+https://camo.githubusercontent.com/7a5fb82d1e8bacc04533f6b035052308e37696781632f86891bf6f0300eb693d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f726e6b35374b774458663831726a574d2f67697068792e676966
 </p><h1 align="center">Hello there, I'm Dimitri</h1>
 <div style="text-align: left; margin-left: 35%;">
 
