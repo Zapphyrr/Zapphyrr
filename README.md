@@ -1,5 +1,5 @@
 ![Hello there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJxdjVmMGc3NmNvbHg5dzBsc3lrMmtmam8ydGhidGptOGRyNGNlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
-<h1 align="center">Hello there, I'm Dimitri</h1>
+<h1>I'm Dimitri</h1>
 <div style="text-align: left; margin-left: 35%;">
 
   <h3>French developer. Worked on a lot of project on github</h3>
@@ -17,7 +17,7 @@
     <img width="11" height="10" alt="image" src="https://github.com/user-attachments/assets/3cac6107-60bd-400f-978e-9666c9d54d7f" />
   </p>
 
-  <p>🔭 I’m currently working on the kubernetes project. You can see its purpose just below.</p>
+  <p>🔭 I’m currently working on the kubernetes project. You can see its purpose and all of the other projects just below.</p>
 </div>
 
 
