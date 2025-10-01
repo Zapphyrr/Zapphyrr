@@ -1,4 +1,4 @@
-![Hello there](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+![Hello there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJxdjVmMGc3NmNvbHg5dzBsc3lrMmtmam8ydGhidGptOGRyNGNlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 <h1 align="center">Hello there, I'm Dimitri</h1>
 <div style="text-align: left; margin-left: 35%;">
 
