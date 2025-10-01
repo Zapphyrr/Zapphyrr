@@ -1,17 +1,11 @@
-## Hi there 👋
-French developper. Worked on a lot of project on github
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zapphyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zapphyrr" /> </p>
+<h1 align="center">Hi 👋, I'm Dimitri</h1>
+<h3 align="center">French developper. Worked on a lot of project on github</h3>
 such as 
   * IA (ML/DL) <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/bd8eb1e4-7dec-40f4-b67f-ba1f411dcb6a" />
   * Docker <img width="15" height="10" alt="image" src="https://github.com/user-attachments/assets/bb135fec-bb4b-4454-adca-bf19ad780e28" />
   * React <img width="11" height="10" alt="image" src="https://github.com/user-attachments/assets/3cac6107-60bd-400f-978e-9666c9d54d7f" />
-
 🔭 I’m currently working on the kubernetes project. You can see it's purpose by go on it, just below.
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zapphyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zapphyrr" /> </p>
-<h1 align="center">Hi 👋, I'm Dimitri</h1>
-<h3 align="center">A passionate developper from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapphyrr&label=Profile%20views&color=0e75b6&style=flat" alt="zapphyrr" /> </p>
 
