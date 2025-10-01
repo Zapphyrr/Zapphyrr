@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitri</h1>
 <h3 align="center">French developper. Worked on a lot of project on github</h3>
-<h3 align="center">Such as </h3>
+<h3 align="center">Such as                                                </h3>
 <h4 align="center">   * IA (ML/DL) <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/bd8eb1e4-7dec-40f4-b67f-ba1f411dcb6a" /></h4>
 <h4 align="center">   * Docker <img width="15" height="10" alt="image" src="https://github.com/user-attachments/assets/bb135fec-bb4b-4454-adca-bf19ad780e28" /></h4>
 <h4 align="center">   * React <img width="11" height="10" alt="image" src="https://github.com/user-attachments/assets/3cac6107-60bd-400f-978e-9666c9d54d7f" /></h4>
