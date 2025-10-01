@@ -1,5 +1,6 @@
-https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMjBtMXlyYXcwcGtwMHluZHY1OWQxYjNvYjdvNXVsd2FjdXg2aHVyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/source.gif
-<h1 align="center">Hello there, I'm Dimitri</h1>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMjBtMXlyYXcwcGtwMHluZHY1OWQxYjNvYjdvNXVsd2FjdXg2aHVyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/source.gif" width="300" alt="cool gif"/>
+</p><h1 align="center">Hello there, I'm Dimitri</h1>
 <div style="text-align: left; margin-left: 35%;">
 
   <h3>French developer. Worked on a lot of project on github</h3>
