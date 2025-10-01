@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dimitri</h1>
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6c280d83-a74c-43b8-a22c-e37f033f845c" />
+
+<h1 align="center">Hello there, I'm Dimitri</h1>
 <div style="text-align: left; margin-left: 35%;">
 
   <h3>French developer. Worked on a lot of project on github</h3>
