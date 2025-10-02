@@ -9,11 +9,11 @@
     <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/bd8eb1e4-7dec-40f4-b67f-ba1f411dcb6a" />
   </p>
 
-  <p>* Docker 
+  <p>* Docker (Entry-Level, with kubernetes project)
     <img width="15" height="10" alt="image" src="https://github.com/user-attachments/assets/bb135fec-bb4b-4454-adca-bf19ad780e28" />
   </p>
 
-  <p>* React 
+  <p>* React (Entry-Level, with kubernetes project)
     <img width="11" height="10" alt="image" src="https://github.com/user-attachments/assets/3cac6107-60bd-400f-978e-9666c9d54d7f" />
   </p>
 
